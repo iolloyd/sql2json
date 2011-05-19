@@ -1,6 +1,6 @@
 """
 Author      : Lloyd Moore
-Version     : 0.1
+Version     : 0.1.1
 Title       : SQL_to_JSON_Converter
 Description : |
     Given an sql schema returns the same data formatted as sets
